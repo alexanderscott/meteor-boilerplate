@@ -1,0 +1,37 @@
+{
+  "name": "meteor-boilerplate",
+  "description": "",
+  "keywords": [ ],
+  "version": "0.1.0",
+  "homepage": "http://alexehrnschwender.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexanderscott/meteor-boilerplate.git"
+  },
+  "author": "Alex Ehrnschwender <alexanderscott46@gmail.com> (http://alexehrnschwender.com)",
+  "dependencies": { },
+  "devDependencies": {
+    "blanket": "~1.1.6",
+    "grunt": "~0.4.0",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-jsdoc": "~0.5.6",
+    "grunt-mocha-test": "~0.11.0",
+    "mocha": "~1.14.0"
+  },
+  "engines": [
+    "node >=0.10.0"
+  ],
+  "main": "index",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/alexanderscott/meteor-boilerplate/raw/master/LICENSE"
+    }
+  ]
+ "
+
+}
